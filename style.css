@@ -1,0 +1,13 @@
+:root {
+    /* Primary colors */
+    --color1: hsl(233, 47%, 7%);
+    --color2: hsl(244, 38%, 16%);
+    --color3: hsl(277, 64%, 61%);
+    /* Neutral colors */
+    --white1: hsl(0, 0%, 100%);
+    --white2: hsla(0, 0%, 100%, 0.75);
+    --white3: hsla(0, 0%, 100%, 0.6);
+    /* Fonts */
+    --inter: 'Inter', sans-serif;
+    --lexand-deca: 'Lexend Deca', sans-serif;
+}
